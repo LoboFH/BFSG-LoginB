@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "897f",
+      "fullName": "BraulioSG",
+      "email": "braulio@gmail.com",
+      "password": "$2a$10$aXYlk6SiBjxcIx9IDZ/pMusPkI1Kq9FKSNmp35TsNthlrjC1ILCsu"
+    },
+    {
+      "id": "f10c",
+      "fullName": "Braulio",
+      "email": "braulio123@gmail.com",
+      "password": "$2a$10$xOoAu41NE72rkemVpd5vL.Gop6MnoPrMRfN7DkAnXsZOkmYX6v0tu"
+    }
+  ]
+}

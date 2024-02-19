@@ -1,0 +1,20 @@
+.password-input {
+  position: relative;
+}
+
+.password-field {
+  padding-right: 40px; /* Ajusta el padding derecho para dejar espacio para el botón */
+}
+
+.password-toggle {
+  position: absolute;
+  top: 50%;
+  right: 10px; /* Ajusta la posición derecha según sea necesario */
+  transform: translateY(-50%);
+  background-color: transparent; /* Quita el fondo azul */
+  border: none; /* Quita el borde */
+  color: #495057; /* Color del icono */
+}
+
+
+  
